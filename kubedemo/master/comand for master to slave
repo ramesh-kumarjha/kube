@@ -1,0 +1,2 @@
+
+ssh admin@<public IP address of master/slave> -i ~/.ssh/id_rsa
